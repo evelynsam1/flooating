@@ -1,0 +1,25 @@
+/* Pon tu código css aqui */
+.amarillo{
+	width: 25%;
+	height: 100px;
+	background-color: #ffff00;
+	float: left;
+}
+.azul{
+	width: 25%;
+	height: 100px;
+	background-color:#3a81ba;
+	float: left;
+}
+.rojo{
+	width: 25%;
+	height: 100px;
+	background-color:#ed2251;
+	float: left;
+}
+#contenedormayor{
+	border:1px dotted black;
+}
+.clearfix{
+	overflow: auto;
+}

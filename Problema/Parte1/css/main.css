@@ -1,0 +1,19 @@
+/* Pon tu código css aqui */
+.amarillo{
+	width: 25%;
+	height: 100px;
+	background-color: #ffff00;
+}
+.azul{
+	width: 25%;
+	height: 100px;
+	background-color:#3a81ba;
+}
+.rojo{
+	width: 25%;
+	height: 100px;
+	background-color:#ed2251;
+}
+#contenedormayor{
+	border:1px dotted black;
+}

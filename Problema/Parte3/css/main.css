@@ -1,0 +1,22 @@
+/* Pon tu código css aqui */
+.amarillo{
+	width: 25%;
+	height: 100px;
+	background-color: #ffff00;
+	float: right;
+}
+.azul{
+	width: 25%;
+	height: 100px;
+	background-color:#3a81ba;
+	float: right;
+}
+.rojo{
+	width: 25%;
+	height: 100px;
+	background-color:#ed2251;
+	float: right;
+}
+#contenedormayor{
+	border:1px dotted black;
+}
